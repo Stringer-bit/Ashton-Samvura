@@ -23,4 +23,5 @@ Java | R | SQL | C++
 #CONTACT
 
 www.linkedin.com/in/ashton-samvura-a33433230
+
 ashtonsamvura@gmail.com
